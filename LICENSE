@@ -1,6 +1,13 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2026 ZéroTwó#5019
+=======
+Copyright (c) 2026 lollipop-beamer-root contributors
+
+This license applies to the source code and shell scripts in this repository.
+It does not grant rights to vendor firmware, vendor binaries, or trademarks.
+>>>>>>> 08b7a6b (Repo)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

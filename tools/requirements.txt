@@ -1,0 +1,4 @@
+scapy>=2.5
+
+# Optional: only needed for `extract_fw.py --extract` (SquashFS unpacking).
+# PySquashfsImage==0.9.0

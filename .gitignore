@@ -1,0 +1,7 @@
+lure/
+fw/
+*.bin
+*.bin.gz
+__pycache__/
+*.log
+exfil/
